@@ -1,0 +1,7 @@
+{
+    "port": "6200",
+    "version": "0.0.1",
+    "build": "01",
+    "description": "API de l'agent, permettant l'interaction avec Nina et le contrôle Panel",
+    "name": "api"
+}
